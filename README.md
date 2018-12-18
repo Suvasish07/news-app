@@ -1,2 +1,2 @@
 # news-app
-this app is used for getting world news using their free news api.Here I have used reactjs and bootstrp for designing the complete site.
+using reactjs  I have made a news app .where you can find rest API call,routing ,calling function,looping through JSON data. and responsive webpages.
